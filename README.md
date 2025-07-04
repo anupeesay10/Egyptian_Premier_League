@@ -7,6 +7,6 @@ The project uses PostgreSQL for data storage and extraction, as well as Python f
 Follow these steps to view the project:
 1. Clone the repository
 2. Open the project in Jupyter
-3. Open 
+3. Open "Egyptian_Premier_League.ipynb"
 
 I hope you enjoy!
